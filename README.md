@@ -1,7 +1,4 @@
 <p align="left">
-  <a href="https://github.com/Kyohei-takiyama/Kyohei-takiyama/">
-    <img src="https://komarev.com/ghpvc/?username=Kyohei-takiyama" alt="Kyohei-takiyama" />
-  </a>
   <a href="https://github.com/Kyohei-takiyama">
     <img height="20" src="https://img.shields.io/github/followers/Kyohei-takiyama?label=follow&logo=github&style=flat" />
   </a>
