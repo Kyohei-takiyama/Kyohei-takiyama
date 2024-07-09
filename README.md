@@ -10,6 +10,15 @@
   </a>
 </p>
 
+### Skill set
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,docker,ts,react,vite,vitest,python,fastapi,nodejs,prisma,postgres,aws,linux,terraform" />
+  </a>
+</p>
+
+
 
 ### Recent Activities
 
